@@ -1,14 +1,14 @@
 # STIX-Anomaly-SDO-Parser
 Parser that converts IAM anomalies to a STIX anomaly SDO.
 
-1. Install stix2 API
+1. Download AnomalyParser
+     
+     
+2. Install stix2 API
 
-pip install stix2
-   
-2. Pull project
-
-git clone https://github.com/JacobAdan/STIX-Anomaly-SDO-Parser/tree/main
+     pip install stix2
+  
     
 3. Import Project
 
-from Anomaly_Parser import AnomalyParser
+     from Anomaly_Parser import AnomalyParser
